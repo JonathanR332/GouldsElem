@@ -49,3 +49,34 @@ else:
 
 
 print("The end: \n Thank you for playing " + name + " You got " + str(score) + " out of 3") # Final message to show users their score.
+
+
+
+
+
+#Example output
+
+# 4
+#4
+#1
+#1.5
+#27
+#Hello World
+#How old are you? 21
+#What is your name? Alice
+#Hello, I am Mario
+#Nice to meet you Alice
+#It is nice hearing you are 21 Years old.
+#36862
+#What Color is the sky? Blue
+#Correct
+#Your score is 1
+#What color is grass? Green
+#Correct
+#Your score is 2
+#What color is Spongebob? Yellow
+#Correct
+#Your score is 3
+#The end:
+#Thank you for playing Alice You got 3 out of 3
+
