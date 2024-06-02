@@ -3,7 +3,7 @@
 import pandas as pd
 
 # this is how you get to read the CSV file
-df = pd.read_csv('jrizo013.csv') # random csv file I had to use for one class were I had to do a similar yet way more complex assignment
+df = pd.read_csv('data.csv') # random csv file I had to use for one class were I had to do a similar yet way more complex assignment
 
 # here we are separating users based on their gender so we can call them as groups later
 male_users = []
